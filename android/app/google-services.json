@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "621327988207",
+    "project_id": "ecook2-5f964",
+    "storage_bucket": "ecook2-5f964.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621327988207:android:41014ff7e2f25a0021721a",
+        "android_client_info": {
+          "package_name": "com.example.my_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgq3NWH6FUBHlh0U15peVSfxq9mWwlyRs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
